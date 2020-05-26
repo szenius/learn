@@ -6,6 +6,9 @@
 ## Testing
 * [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 * [Enzyme - Shallow vs Render vs Mount](https://gist.github.com/fokusferit/e4558d384e4e9cab95d04e5f35d4f913)
+* `act()` - wrap around component rendering or updating to ensure DOM is updated before assertions. Allows testing to be closer to browser behaviour.
+  * [React `act()` documentation](https://reactjs.org/docs/testing-recipes.html#act)
+  * [Examples of when to use `act()`](https://github.com/mrdulin/react-act-examples/blob/master/sync.md)
 
 ## Tools
 * [Important VS Code extensions for React developers](https://blog.usejournal.com/important-vs-code-extensions-for-react-developers-in-2020-2ca8185eee0a)
