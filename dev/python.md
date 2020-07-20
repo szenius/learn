@@ -1,6 +1,18 @@
 # Python 3
 
-## `map`
+* [Beginner](#beginner)
+* [Medium](#medium)
+
+## Beginner
+
+### Variables, Data Types, Conditionals, Loops, Functions
+  * [A Complete Beginner's Guide to Programming](https://dev.to/aspittel/a-complete-beginner-s-guide-to-programming-2ni4)
+  * [Python if else, for loop, and range() Exercise with Solutions
+](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/)
+
+## Medium
+
+### `map`
 * [Lambda, map and filter in Python](https://medium.com/better-programming/lambda-map-and-filter-in-python-4935f248593)
 
 In Javascript, the `Array.map()` function would look something like that:
