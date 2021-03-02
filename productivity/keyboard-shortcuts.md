@@ -35,3 +35,13 @@
 | `Fn` + `S`           | Toggle Mac/Windows modes     |
 | `Fn` + `Scroll Lock` | Toggle backlight style       |
 | `Fn` + `P`           | Toggle bluetooth/wired modes |
+| `f1`                 | Lower brightness             |
+| `f2`                 | Raise brightness             |
+| `f3`                 | Mission Control              |
+| `f4`                 | Show all apps                |
+| `f7`                 | Previous soundtrack          |
+| `f8`                 | Pause/Play                   |
+| `f9`                 | Next soundtrack              |
+| `f10`                | Mute                         |
+| `f11`                | Lower volume                 |
+| `f12`                | Raise volume                 |
