@@ -5,7 +5,8 @@ I know many friends who are looking to get started with programming, but don't e
 I'll be updating this page progressively, so do keep it in your bookmarks! You can also write a comment if you have a request for any particular content, or if you have a useful resource to share.
 
 ## I want to... Upload my personal projects online
-* [My Git Workflow for Personal Projects](https://dev.to/szenius/my-git-workflow-for-personal-projects-463j)
+
+- [My Git Workflow for Personal Projects](https://dev.to/szenius/my-git-workflow-for-personal-projects-463j)
 
 ## I want to... Learn programming
 
@@ -13,7 +14,9 @@ Coming Soon
 
 ## I want to... Build a web app
 
-Coming Soon
+### ... with ReactJS
+
+- [Introduction to React by Debby and Sze Ying](https://docs.google.com/presentation/d/171YHP3YpzRJdkOS83lq8tJiDvWJj7-dyARoxvoGC4ZU/edit?usp=sharing)
 
 ## I want to... Build a mobile app
 
